@@ -4,12 +4,6 @@
   Este es mi repositorio de presentación para la practica de lenguajes de programación.<br>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-Activo-2ecc71?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Proyecto%20Escolar-Sí-3498db?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitHub-Optimizado-9b59b6?style=for-the-badge">
-</p>
-
 En esté perfil veran:
 
 ### *Prácticas y Actividades*
